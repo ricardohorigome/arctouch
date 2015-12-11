@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CodeTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_field_street">Street name</string>
+	<string name="search_street_hint">Street name (ex: Mauro Ramos)</string>
+	<string name="search_button_label">Search</string>
+    <string name="msg_field_mandatory">Field, {0}, must be filled</string>
+
+    <string name="route_detail_title">Route Detail</string>
+    <string name="streets_label">Streets</string>
+    <string name="timetable_label">Timetable</string>
+
+    <string name="back_button_label">Back</string>
+    <string name="maps_button_label">Maps</string>
+
+    <string name="msg_warning_no_result">No results found</string>
+    <string name="msg_error_street">Field street must be filled</string>
+    <string name="msg_error_connection">Server is temporarily unavailable </string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="confirm_message">Confirms the street: {0}?</string>
+    <string name="confirm_title">Confirmation</string>
+    <string name="confirm_label_yes">Yes</string>
+    <string name="confirm_label_no">No</string>
+
+    <string name="google_maps_position_marker">Florianópolis, SC</string>
+
+</resources>
